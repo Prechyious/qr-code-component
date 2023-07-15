@@ -20,8 +20,8 @@ Desktop
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Add solution URL here](https://github.com/Prechyious/qr-code-component)
+-   Live Site URL: [Add live site URL here](https://my-fem-qr-componet.netlify.app)
 
 ### Built with
 
